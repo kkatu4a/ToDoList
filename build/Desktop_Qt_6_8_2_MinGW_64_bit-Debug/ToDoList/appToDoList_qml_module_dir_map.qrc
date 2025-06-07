@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt/qml/ToDoList">C:/Qt/Tools/ToDoList/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/ToDoList</file>
-
-  </qresource>
-</RCC>

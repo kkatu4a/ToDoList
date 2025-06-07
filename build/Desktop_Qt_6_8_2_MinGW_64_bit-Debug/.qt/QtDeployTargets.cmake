@@ -1,7 +1,0 @@
-set(__QT_DEPLOY_TARGET_sqlite3_FILE C:/Qt/Tools/ToDoList/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/SQLiteCpp/sqlite3/libsqlite3.a)
-set(__QT_DEPLOY_TARGET_sqlite3_TYPE STATIC_LIBRARY)
-set(__QT_DEPLOY_TARGET_SQLiteCpp_FILE C:/Qt/Tools/ToDoList/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/SQLiteCpp/libSQLiteCpp.a)
-set(__QT_DEPLOY_TARGET_SQLiteCpp_TYPE STATIC_LIBRARY)
-set(__QT_DEPLOY_TARGET_appToDoList_FILE C:/Qt/Tools/ToDoList/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/appToDoList.exe)
-set(__QT_DEPLOY_TARGET_appToDoList_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_appToDoList_RUNTIME_DLLS C:/Qt/6.8.2/mingw_64/bin/Qt6Quick.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6QmlMeta.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6QmlModels.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6Qml.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6Network.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6OpenGL.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6Gui.dll;C:/Qt/6.8.2/mingw_64/bin/Qt6Core.dll)

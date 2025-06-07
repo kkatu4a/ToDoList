@@ -1,2 +1,0 @@
-C:/Qt/Tools/ToDoList/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/appToDoList_autogen/include/../EWIEGA46WW/moc_Task.cpp.json
-C:/Qt/Tools/ToDoList/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/appToDoList_autogen/include/../EWIEGA46WW/moc_TaskData.cpp.json
