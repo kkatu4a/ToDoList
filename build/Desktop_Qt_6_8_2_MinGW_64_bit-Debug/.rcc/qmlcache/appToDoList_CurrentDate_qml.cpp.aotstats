@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 449,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "updateDate",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 18,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Cannot load property autoUpdate from (component in C:/Qt/Tools/ToDoList/CurrentDate.qml)::parent with type QObject.",
+                        "functionName": "running",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "Type (component in C:/Qt/Tools/ToDoList/CurrentDate.qml)::parent with type QObject does not have a property updateDate for calling",
+                        "functionName": "onTriggered",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 20
+                    }
+                ],
+                "filepath": "C:/Qt/Tools/ToDoList/CurrentDate.qml"
+            }
+        ],
+        "moduleId": "ToDoList(appToDoList)"
+    }
+]

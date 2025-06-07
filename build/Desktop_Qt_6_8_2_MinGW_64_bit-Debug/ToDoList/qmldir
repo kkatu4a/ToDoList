@@ -1,0 +1,15 @@
+module ToDoList
+typeinfo appToDoList.qmltypes
+prefer :/qt/qml/ToDoList/
+Main 1.0 Main.qml
+NewMenu 1.0 NewMenu.qml
+TodoListPage 1.0 TodoListPage.qml
+TodoBoardPage 1.0 TodoBoardPage.qml
+StatsPage 1.0 StatsPage.qml
+HelpPage 1.0 HelpPage.qml
+DialogData 1.0 DialogData.qml
+DialogCreate 1.0 DialogCreate.qml
+CurrentDate 1.0 CurrentDate.qml
+TaskDelegate 1.0 TaskDelegate.qml
+DialogEdit 1.0 DialogEdit.qml
+

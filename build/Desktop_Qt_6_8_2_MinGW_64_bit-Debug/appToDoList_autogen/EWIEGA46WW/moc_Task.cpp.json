@@ -1,0 +1,18 @@
+{
+    "classes": [
+        {
+            "className": "Task",
+            "lineNumber": 6,
+            "object": true,
+            "qualifiedClassName": "Task",
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "Task.h",
+    "outputRevision": 68
+}

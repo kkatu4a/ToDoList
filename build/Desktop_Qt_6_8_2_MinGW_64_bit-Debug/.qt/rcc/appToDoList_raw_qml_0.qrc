@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="/qt/qml/ToDoList/">
+    <file alias="Main.qml">C:/Qt/Tools/ToDoList/Main.qml</file>
+    <file alias="NewMenu.qml">C:/Qt/Tools/ToDoList/NewMenu.qml</file>
+    <file alias="TodoListPage.qml">C:/Qt/Tools/ToDoList/TodoListPage.qml</file>
+    <file alias="TodoBoardPage.qml">C:/Qt/Tools/ToDoList/TodoBoardPage.qml</file>
+    <file alias="StatsPage.qml">C:/Qt/Tools/ToDoList/StatsPage.qml</file>
+    <file alias="HelpPage.qml">C:/Qt/Tools/ToDoList/HelpPage.qml</file>
+    <file alias="DialogData.qml">C:/Qt/Tools/ToDoList/DialogData.qml</file>
+    <file alias="DialogCreate.qml">C:/Qt/Tools/ToDoList/DialogCreate.qml</file>
+    <file alias="CurrentDate.qml">C:/Qt/Tools/ToDoList/CurrentDate.qml</file>
+    <file alias="TaskDelegate.qml">C:/Qt/Tools/ToDoList/TaskDelegate.qml</file>
+    <file alias="DialogEdit.qml">C:/Qt/Tools/ToDoList/DialogEdit.qml</file>
+  </qresource>
+</RCC>
+

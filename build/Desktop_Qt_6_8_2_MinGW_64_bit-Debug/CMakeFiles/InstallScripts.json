@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Qt/Tools/ToDoList/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/cmake_install.cmake",
+		"C:/Qt/Tools/ToDoList/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/SQLiteCpp/cmake_install.cmake",
+		"C:/Qt/Tools/ToDoList/build/Desktop_Qt_6_8_2_MinGW_64_bit-Debug/SQLiteCpp/sqlite3/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

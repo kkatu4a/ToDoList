@@ -1,0 +1,2 @@
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc libsqlite3.a CMakeFiles/sqlite3.dir/sqlite3.c.obj
+C:\Qt\Tools\mingw1310_64\bin\ranlib.exe libsqlite3.a
